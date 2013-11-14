@@ -1,0 +1,45 @@
+html,body{
+    height: 100%;
+    margin: 0px;
+}
+.container{
+    height: 100%;
+    background-color: #bebebe;
+    width: 100%;
+    padding: 0px;
+}
+
+.content{
+    background-color: white;
+    width:80%;
+    height: 100%;
+    padding-top: 45px;
+}
+
+.order{
+    width: 20px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.col_name{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tbl_result{
+    width:100%;
+}
+
+.banner{
+    font-family: arial;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.text{
+    max-width: 200px;
+    word-wrap: break-word;
+}
